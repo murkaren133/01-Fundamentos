@@ -3,7 +3,7 @@ let getUsuarioById = (id, callback) => {
     //Suponer que realiza una busqueda en base de Datos
     let usuario = {
         id, // == id : id
-        nombre: "Valeria"
+        nombre: "cristhian"
     };
     //Simular un error
     if (id === 20){
